@@ -1,1002 +1,1002 @@
-.01,Abrocoma bennetti,*,Mastodon,,Aves
-.02,Abronia smithi,*,Mastodon,,Insectos
-.03,Abrothrix jelskii,*,Mastodon,,Arácnidos
-.04,Abrothrix longipilis,*,Mastodon,,Mamíferos
-.05,Abrothrix olivacea,*,,,Peces
-.06,Aburria aburri,*,,,Invertebrados marinos
-.07,Acalodegma vidali,*,,,Reptiles
-.08,Acanthinodera cummingi,*,,,Anfibios
-.09,Accipiter chilensis,*,,,Otros invertebrados
-.10,Acerodon jubatus,*,,,
-.11,Acinonyx jubatus,*,,,
-.12,Acisoma attenboroughi,*,,,
-.13,Acraga coa,*,,,Aves
-.14,Acrobates pygmaeus,*,,,Insectos
-.15,Acrochordus javanicus,*,,,Arácnidos
-.16,Acryllium vulturinum,*,,,Mamíferos
-.17,Actias luna,*,,,Peces
-.18,Actophilornis africanus,*,,,Invertebrados marinos
-.19,Adalia angulifera,*,,,Reptiles
-.20,Adetomeris erythrops,*,,,Anfibios
-.21,Aethopyga siparaja,*,,,Otros invertebrados
-.22,Aethopyga vigorsii,*,,,
-.23,Agalychnis callidryas,*,,,
-.24,Agamia agami,*,,,
-.25,Agapornis fischeri,*,,,Aves
-.26,Agathemera crassa,*,,,Insectos
-.27,Agathidium vaderi,*,,,Arácnidos
-.28,Agelasticus thilius,*,,,Mamíferos
-.29,Aglaiocercus kingii,*,,,Peces
-.30,Aglantha digitale,*,,,Invertebrados marinos
-.31,Agra katewinsletae,*,,,Reptiles
-.32,Agra liv,*,,,Anfibios
-.33,Agra schwarzeneggeri,*,,,Otros invertebrados
-.34,Agrias narcissus,*,,,
-.35,Agriornis albicauda,*,,,
-.36,Agriornis livida,*,,,
-.37,Ahaetulla mycterizans,*,,,Aves
-.38,Ailuropoda melanoleuca,*,,,Insectos
-.39,Ailurus fulgens,,,,Arácnidos
-.40,Aipysurus duboisii,,,,Mamíferos
-.41,Aix galericulata,,,,Peces
-.42,Alcelaphus buselaphus,,,,Invertebrados marinos
-.43,Alcides agathyrsus,,,,Reptiles
-.44,Alectoris rufa,,,,Anfibios
-.45,Aleiodes shakirae,,,,Otros invertebrados
-.46,Allendia chilensis,,,,
-.47,Allenopithecus nigroviridis,,,,
-.48,Alligator sinensis,,,,
-.49,Allochrocebus lhoesti,,,,Aves
-.50,Allochrocebus preussi,,,,Insectos
-.51,Allochrocebus solatus,,,,Arácnidos
-.52,Alloscirtetica gayi,,,,Mamíferos
-.53,Alopecosa fabrilis,,,,Peces
-.54,Alopias vulpinus,,,,Invertebrados marinos
-.55,Alouatta caraya,,,,Reptiles
-.56,Alouatta pigra,,,,Anfibios
-.57,Alouatta seniculus,,,,Otros invertebrados
-.58,Alsodes barrioi,,,,
-.59,Alsodes cantillanensis,,,,
-.60,Alsodes hugoi,,,,
-.61,Alsodes igneus,,,,Aves
-.62,Alsodes vanzolinii,,,,Insectos
-.63,Alytes obstetricans,,,,Arácnidos
-.64,Amazilia boucardi,,,,Mamíferos
-.65,Amazona aestiva,,,,Peces
-.66,Amazona pretrei,,,,Invertebrados marinos
-.67,Amblyrhynchus cristatus,,,,Reptiles
-.68,Amblysomus hottentotus,,,,Anfibios
-.69,Ambystoma mexicanum,,,,Otros invertebrados
-.70,Ambystoma opacum,,,,
-.71,Amegilla cingulata,,,,
-.72,Amerila crokeri,,,,
-.73,Amorphochilus schnablii,,,,Aves
-.74,Amphioctopus marginatus,,,,Insectos
-.75,Anairetes alpinus,,,,Arácnidos
-.76,Anairetes fernandezianus,,,,Mamíferos
-.77,Anairetes parulus,,,,Peces
-.78,Anarhichas lupus,,,,Invertebrados marinos
-.79,Anas georgica,,,,Reptiles
-.80,Anas sibilatrix,,,,Anfibios
-.81,Anastomus lamelligerus,,,,Otros invertebrados
-.82,Anax imperator,,,,
-.83,Ancistrocheirus lesueurii,,,,
-.84,Andeabatis chilensis,,,,
-.85,Andrias davidianus,,,,Aves
-.86,Aneriophora aureorufa,,,,Insectos
-.87,Anguis fragilis,,,,Arácnidos
-.88,Anhinga anhinga,,,,Mamíferos
-.89,Anolis aquaticus,,,,Peces
-.90,Anophthalmus hitleri,,,,Invertebrados marinos
-.91,Anoura fistulata,,,,Reptiles
-.92,Antennarius nummifer,,,,Anfibios
-.93,Anteros renaldus,,,,Otros invertebrados
-.94,Antheraea polyphemus,,,,
-.95,Antheraea yamamai,,,,
-.96,Anthobaphes violacea,,,,
-.97,Aonyx cinereus,,,,Aves
-.98,Aotus miconax,,,,Insectos
-.99,Apalone spinifera,,,,Arácnidos
-.100,Aphaniotis fusca,,,,Mamíferos
-.101,Apis mellifera,,,,Peces
-.102,Aplysia punctata,,,,Invertebrados marinos
-.103,Apogon cyanosoma,,,,Reptiles
-.104,Aptenodytes forsteri,,,,Anfibios
-.105,Aptenodytes patagonicus,,,,Otros invertebrados
-.106,Apterodorcus bacchus,,,,
-.107,Apteryx australis,,,,
-.108,Apteryx owenii,,,,
-.109,Aptostichus barackobamai,,,,Aves
-.110,Aquila chrysaetos,,,,Insectos
-.111,Ara militaris,,,,Arácnidos
-.112,Arachnothera clarae,,,,Mamíferos
-.113,Arachnothera magna,,,,Peces
-.114,Arapaima gigas,,,,Invertebrados marinos
-.115,Arctia caja,,,,Reptiles
-.116,Arctictis binturong,,,,Anfibios
-.117,Arctocephalus australis,,,,Otros invertebrados
-.118,Ardea alba,,,,
-.119,Ardea cocoi,,,,
-.120,Ardea herodias,,,,
-.121,Ardeotis kori,,,,Aves
-.122,Arelate limbellata,,,,Insectos
-.123,Argema mittrei,,,,Arácnidos
-.124,Argiope argentata,,,,Mamíferos
-.125,Argiope lobata,,,,Peces
-.126,Argonauta,,,,Invertebrados marinos
-.127,Argyrophorus argenteus,,,,Reptiles
-.128,Ariadna maxima,,,,Anfibios
-.129,Ariadna motumotirohiva,,,,Otros invertebrados
-.130,Arkys lancearius,,,,
-.131,Ascalapha odorata,,,,
-.132,Asio flammeus suinda,,,,
-.133,Asio stygius,,,,Aves
-.134,Aspidimorpha miliaris,,,,Insectos
-.135,Aspidolobus sebastianpinerai,,,,Arácnidos
-.136,Astylus trifasciatus,,,,Mamíferos
-.137,Ateles belzebuth,,,,Peces
-.138,Ateles chamek,,,,Invertebrados marinos
-.139,Ateles fusciceps,,,,Reptiles
-.140,Ateles hybridus,,,,Anfibios
-.141,Atelocynus microtis,,,,Otros invertebrados
-.142,Atelognathus patagonicus,,,,
-.143,Atelopus zeteki,,,,
-.144,Athene cunicularia,,,,
-.145,Atheris hispida,,,,Aves
-.146,Atheris squamigera,,,,Insectos
-.147,Atomosphyrus tristiculus,,,,Arácnidos
-.148,Atretochoana eiselti,,,,Mamíferos
-.149,Attacus atlas,,,,Peces
-.150,Attenborougharion rubicundus,,,,Invertebrados marinos
-.151,Atthis ellioti,,,,Reptiles
-.152,Automeris larra,,,,Anfibios
-.153,Ayam cemani,,,,Otros invertebrados
-.154,Babyrousa babyrussa,,,,
-.155,Bacunculus phyllopus,,,,
-.156,Bagheera kiplingi,,,,
-.157,Balaeniceps rex,,,,Aves
-.158,Balaenoptera musculus,,,,Insectos
-.159,Balearica regulorum,,,,Arácnidos
-.160,Barsine orientalis,,,,Mamíferos
-.161,Basiliscus basiliscus,,,,Peces
-.162,Basiliscus plumifrons,,,,Invertebrados marinos
-.163,Bassariscus astutus,,,,Reptiles
-.164,Batesia hypochlora,,,,Anfibios
-.165,Bathynomus giganteus,,,,Otros invertebrados
-.166,Batrachoseps gavilanensis,,,,
-.167,Batrachostomus cornutus,,,,
-.168,Batrachostomus harterti,,,,
-.169,Batrachyla antartandica,,,,Aves
-.170,Batrachyla leptopus,,,,Insectos
-.171,Battus polydamas archidamas,,,,Arácnidos
-.172,Beatragus hunteri,,,,Mamíferos
-.173,Bipes biporus,,,,Peces
-.174,Birupes simoroxigorum,,,,Invertebrados marinos
-.175,Bison bison,,,,Reptiles
-.176,Blaesospira echinus infernalis,,,,Anfibios
-.177,Blastocerus dichotomus,,,,Otros invertebrados
-.178,Boa constrictor,,,,
-.179,Bocydium globulare,,,,
-.180,Bolitoglossa franklini,,,,
-.181,Bombus dahlbomii,,,,Aves
-.182,Bombus funebris,,,,Insectos
-.183,Bombus terrestris,,,,Arácnidos
-.184,Bombyx mori,,,,Mamíferos
-.185,Bos primigenius taurus,,,,Peces
-.186,Bothriechis rowleyi,,,,Invertebrados marinos
-.187,Bothriechis schlegelii,,,,Reptiles
-.188,Bothus mancus,,,,Anfibios
-.189,Brachistosternus cepedai,,,,Otros invertebrados
-.190,Bradypus pygmaeus,,,,
-.191,Bradypus torquatus,,,,
-.192,Bradypus tridactylus,,,,
-.193,Bradypus variegatus,,,,
-.194,Brahmaea wallichii,,,,
-.195,Breviceps fuscus,,,,
-.196,Breviceps macrops,,,,
-.197,Brookesia micra,,,,
-.198,Brookesia nana,,,,
-.199,Brotogeris cyanoptera,,,,
-.200,Bryaninops natans,,,,
-.201,Bubo lacteus,,,,
-.202,Bubo magellanicus,,,,
-.203,Bubo scandiacus,,,,
-.204,Bubulcus ibis,,,,
-.205,Buceros bicornis,,,,
-.206,Bucorvus abyssinicus,,,,
-.207,Budorcas taxicolor,,,,
-.208,Bumba lennoni,,,,Aves
-.209,Burhinus superciliaris,,,,Insectos
-.210,Burramys parvus,,,,Arácnidos
-.211,Buteo albigula,,,,Mamíferos
-.212,Buteo ventralis,,,,Peces
-.213,Cacajao calvus,,,,Invertebrados marinos
-.214,Cadeguala occidentalis,,,,Reptiles
-.215,Caiman crocodilus,,,,Anfibios
-.216,Caiman latirostris,,,,Otros invertebrados
-.217,Caiman yacare,,,,
-.218,Calendyma chilensis,,,,
-.219,Calidris alba,,,,
-.220,Calidris pugnax,,,,
-.221,Callicebus lucifer,,,,
-.222,Callicebus oenanthe,,,,
-.223,Callimico goeldii,,,,
-.224,Callimorpha dominula,,,,
-.225,Calliophis bivirgata,,,,
-.226,Callisphyris apicicornis,,,,
-.227,Callistochlora chloris,,,,
-.228,Callonia ellioti,,,,
-.229,Callopistes maculatus,,,,
-.230,Callopistromyia annulipes,,,,
-.231,Callorhinchus milii,,,,
-.232,Caloenas nicobarica,,,,
-.233,Calumma parsonii,,,,
-.234,Calyptocephalella gayi,,,,
-.235,Camelus bactrianus,,,,Aves
-.236,Camelus dromedarius,,,,Insectos
-.237,Camelus ferus,,,,Arácnidos
-.238,Campephilus magellanicus,,,,Mamíferos
-.239,Canis adustus,,,,Peces
-.240,Canis aureus,,,,Invertebrados marinos
-.241,Canis latrans,,,,Reptiles
-.242,Canis lupus,,,,Anfibios
-.243,Canis lupus dingo,,,,Otros invertebrados
-.244,Canis lupus signatus,,,,
-.245,Canis mesomelas,,,,
-.246,Canis rufus,,,,
-.247,Canis simensis,,,,
-.248,Capra aegagrus hircus,,,,
-.249,Capra falconeri,,,,
-.250,Capra ibex,,,,
-.251,Capra nubiana,,,,
-.252,Capra pyrenaica,,,,
-.253,Caprimulgus longipennis,,,,
-.254,Caracal aurata,,,,
-.255,Caracal caracal,,,,
-.256,Caracara plancus,,,,
-.257,Carcharodon carcharias,,,,
-.258,Cardinalis cardinalis,,,,
-.259,Caretta caretta,,,,
-.260,Carettochelys insculpta,,,,
-.261,Cassida azurea,,,,
-.262,Cassiopea,,,,Aves
-.263,Castnia eudesmia,,,,Insectos
-.264,Castor fiber,,,,Arácnidos
-.265,Casuarius casuarius,,,,Mamíferos
-.266,Catagonus wagneri,,,,Peces
-.267,Cathartes aura jota,,,,Invertebrados marinos
-.268,Catocala fraxini,,,,Reptiles
-.269,Catopuma badia,,,,Anfibios
-.270,Catopuma temminckii,,,,Otros invertebrados
-.271,Cavolinia tridentata,,,,
-.272,Cebuella pygmaea,,,,
-.273,Cebus apella,,,,
-.274,Celeus flavus,,,,
-.275,Centris rhodophthalma,,,,
-.276,Centrocercus urophasianus,,,,
-.277,Centurio senex,,,,
-.278,Cephalopachus bancanus,,,,
-.279,Cephalopterus penduliger,,,,
-.280,Cephalorhynchus eutropia,,,,
-.281,Cephalorhynchus hectori,,,,
-.282,Cephalotes varians,,,,
-.283,Cephea cephea,,,,
-.284,Cerastes cerastes,,,,
-.285,Ceratophrys ornata,,,,
-.286,Ceratopipra erythrocephala,,,,
-.287,Ceratopipra mentalis,,,,
-.288,Ceratotherium simum,,,,
-.289,Cercophana venusta,,,,Aves
-.290,Cercopithecus lomamiensis,,,,Insectos
-.291,Cercopithecus neglectus,,,,Arácnidos
-.292,Cerdocyon thous,,,,Mamíferos
-.293,Ceroglossus chilensis,,,,Peces
-.294,Cetonia aurata,,,,Invertebrados marinos
-.295,Cetorhinus maximus,,,,Reptiles
-.296,Ceyx erithaca,,,,Anfibios
-.297,Ceyx rufidorsa,,,,Otros invertebrados
-.298,Chaetodon litus,,,,
-.299,Chaetomys subspinosus,,,,
-.300,Chaetophractus villosus,,,,
-.301,Chalcostigma herrani,,,,
-.302,Chamaeleo calyptratus,,,,
-.303,Charadrius falklandicus,,,,
-.304,Charadrius nivosus,,,,
-.305,Charidotella sexpunctata,,,,
-.306,Cheguevaria montana,,,,
-.307,Chelemys megalonyx,,,,
-.308,Chelidonura varians,,,,
-.309,Cheloderus childreni,,,,
-.310,Chelodina longicollis,,,,
-.311,Chelonia mydas,,,,
-.312,Chelonoidis abingdoni,,,,
-.313,Chelonoidis becki,,,,
-.314,Chelonoidis carbonaria,,,,
-.315,Chelonoidis vicina,,,,
-.316,Chelus fimbriata,,,,Aves
-.317,Chenoderus bicolor,,,,Insectos
-.318,Chiasognathus grantii,,,,Arácnidos
-.319,Chilecicada occidentis,,,,Mamíferos
-.320,Chimaera monstrosa,,,,Peces
-.321,Chinchilla chinchilla,,,,Invertebrados marinos
-.322,Chinchilla lanigera,,,,Reptiles
-.323,Chionodraco rastrospinosus,,,,Anfibios
-.324,Chironectes minimus,,,,Otros invertebrados
-.325,Chiropotes satanas,,,,
-.326,Chiroxiphia caudata,,,,
-.327,Chitra indica,,,,
-.328,Chlamydosaurus kingii,,,,
-.329,Chlamydoselachus anguineus,,,,
-.330,Chlamyphorus truncatus,,,,
-.331,Chlidonoptera lestoni,,,,
-.332,Chloephaga hybrida,,,,
-.333,Chloephaga rubidiceps,,,,
-.334,Chlorophonia callophrys,,,,
-.335,Choeradodis rhomboidea,,,,
-.336,Choeropsis liberiensis,,,,
-.337,Choloepus didactylus,,,,
-.338,Choloepus hoffmanni,,,,
-.339,Chordeiles minor,,,,
-.340,Chroicocephalus serranus,,,,
-.341,Chromodoris lochi,,,,
-.342,Chrysaora achlyos,,,,
-.343,Chrysaora plocamia,,,,Aves
-.344,Chrysilla volupe,,,,Insectos
-.345,Chrysiridia rhipheus,,,,Arácnidos
-.346,Chrysis,,,,Mamíferos
-.347,Chrysis chilensis,,,,Peces
-.348,Chrysochus auratus,,,,Invertebrados marinos
-.349,Chrysocyon brachyurus,,,,Reptiles
-.350,Chrysolina cerealis,,,,Anfibios
-.351,Chrysolophus amherstiae,,,,Otros invertebrados
-.352,Chrysolophus pictus,,,,
-.353,Chrysomallon squamiferum,,,,
-.354,Chrysopelea paradisi,,,,
-.355,Cicindela hudsoni,,,,
-.356,Cicindela sexguttata,,,,
-.357,Cicinnurus magnificus,,,,
-.358,Cicinnurus regius,,,,
-.359,Cicinnurus respublica,,,,
-.360,Ciconia nigra,,,,
-.361,Cinclodes patagonicus,,,,
-.362,Cinnyricinclus leucogaster,,,,
-.363,Cinnyris asiaticus,,,,
-.364,Cinnyris buettikoferi,,,,
-.365,Cinnyris chloropygius,,,,
-.366,Cinnyris coccinigastrus,,,,
-.367,Cinnyris coquerellii,,,,
-.368,Cinnyris cupreus,,,,
-.369,Cinnyris dussumieri,,,,
-.370,Cinnyris fuelleborni,,,,Aves
-.371,Cinnyris fuscus,,,,Insectos
-.372,Cinnyris habessinicus,,,,Arácnidos
-.373,Cinnyris humbloti,,,,Mamíferos
-.374,Cinnyris johannae,,,,Peces
-.375,Cinnyris jugularis,,,,Invertebrados marinos
-.376,Cinnyris lotenius,,,,Reptiles
-.377,Cinnyris notatus,,,,Anfibios
-.378,Cinnyris osea,,,,Otros invertebrados
-.379,Cinnyris regius,,,,
-.380,Cinnyris solaris,,,,
-.381,Cinnyris sovimanga,,,,
-.382,Cinnyris superbus,,,,
-.383,Cinnyris venustus,,,,
-.384,Circus buffoni,,,,
-.385,Circus cinereus,,,,
-.386,Cissa chinensis,,,,
-.387,Cithaerias pireta,,,,
-.388,Citheronia regalis,,,,
-.389,Clavelina lepadiformis,,,,
-.390,Clavelina moluccensis,,,,
-.391,Climaciella brunnea,,,,
-.392,Clione limacina,,,,Aves
-.393,Cochranella granulosa,,,,Insectos
-.394,Coendou prehensilis,,,,Arácnidos
-.395,Colaptes pitius,,,,Mamíferos
-.396,Coleura seychellensis,,,,Peces
-.397,Colias vauthieri,,,,Invertebrados marinos
-.398,Colluricincla megarhyncha,,,,Reptiles
-.399,Columba livia,,,,Anfibios
-.400,Columbina cruziana,,,,Otros invertebrados
-.401,Columbina inca,,,,
-.402,Condylura cristata,,,,
-.403,Conepatus chinga,,,,
-.404,Congridae,,,,
-.405,Conirostrum tamarugense,,,,
-.406,Conognatha soubervi,,,,
-.407,Conognatha viridiventris sagittaria,,,,
-.408,Conolophus marthae,,,,
-.409,Conus textile,,,,
-.410,Coptopteryx gayi,,,,
-.411,Coracias benghalensis,,,,
-.412,Coracias caudatus,,,,
-.413,Coracias garrulus,,,,
-.414,Coragyps atratus,,,,Aves
-.415,Corallus caninus,,,,Insectos
-.416,Correlophus ciliatus,,,,Arácnidos
-.417,Corucia zebrata,,,,Mamíferos
-.418,Corvus brachyrhynchos,,,,Peces
-.419,Corvus corax,,,,Invertebrados marinos
-.420,Corvus monedula,,,,Reptiles
-.421,Corvus ossifragus,,,,Anfibios
-.422,Coscoroba coscoroba,,,,Otros invertebrados
-.423,Cosmosoma myrodora,,,,
-.424,Costasiella kuroshimae,,,,
-.425,Cotinis mutabilis,,,,
-.426,Craspedotropis gretathunbergae,,,,
-.427,Cratomelus armatus,,,,
-.428,Craugastor lineatus,,,,
-.429,Crax daubentoni,,,,
-.430,Creatonotos gangis,,,,
-.431,Creobroter pictipennis,,,,
-.432,Cristiceps aurantiacus,,,,
-.433,Crocodylus acutus,,,,
-.434,Crocodylus moreletii,,,,
-.435,Crocuta crocuta,,,,
-.436,Crotalus adamanteus,,,,Aves
-.437,Crotophaga sulcirostris,,,,Insectos
-.438,Crypsirina cucullata,,,,Arácnidos
-.439,Crypsirina temia,,,,Mamíferos
-.440,Cryptobranchus alleganiensis,,,,Peces
-.441,Cryptoprocta ferox,,,,Invertebrados marinos
-.442,Crypturellus undulatus,,,,Reptiles
-.443,Ctenoderus oyarcei,,,,Anfibios
-.444,Ctenomys leucodon,,,,Otros invertebrados
-.445,Ctenophora,,,,
-.446,Ctenosaura similis,,,,
-.447,Ctenucha vittigera,,,,
-.448,Cucujus clavipes,,,,
-.449,Cuniculus paca,,,,
-.450,Cuon alpinus,,,,
-.451,Curaeus curaeus,,,,
-.452,Cutia nipalensis,,,,
-.453,Cyanea capillata,,,,
-.454,Cyanea lamarckii,,,,
-.455,Cyanocitta cristata,,,,
-.456,Cyanocorax chrysops,,,,
-.457,Cyanocorax dickeyi,,,,
-.458,Cyanocorax yncas,,,,Aves
-.459,Cyanogaster noctivaga,,,,Insectos
-.460,Cyanoliseus patagonus bloxami,,,,Arácnidos
-.461,Cyanolyca mirabilis,,,,Mamíferos
-.462,Cyanomitra verticalis,,,,Peces
-.463,Cyanopica cooki,,,,Invertebrados marinos
-.464,Cyclocosmia truncata,,,,Reptiles
-.465,Cyclograpsus cinereus,,,,Anfibios
-.466,Cyclommatus metallifer,,,,Otros invertebrados
-.467,Cycloneda sanguinea,,,,
-.468,Cyclopes didactylus,,,,
-.469,Cyclura lewisi,,,,
-.470,Cyerce elegans,,,,
-.471,Cyerce kikutarobabai,,,,
-.472,Cyerce nigra,,,,
-.473,Cyerce nigricans,,,,
-.474,Cygnus atratus,,,,
-.475,Cygnus melancoryphus,,,,
-.476,Cylindrophora maulica,,,,
-.477,Cymbirhynchus macrorhynchos,,,,
-.478,Cynomys ludovicianus,,,,
-.479,Cyphoma gibbosum,,,,
-.480,Cyrtonyx montezumae,,,,Aves
-.481,Cystophora cristata,,,,Insectos
-.482,Dacelo,,,,Arácnidos
-.483,Dactylotum bicolor,,,,Mamíferos
-.484,Dalatias licha,,,,Peces
-.485,Damon diadema,,,,Invertebrados marinos
-.486,Danaus plexippus,,,,Reptiles
-.487,Danielaparra fragmentata,,,,Anfibios
-.488,Daphnis nerii,,,,Otros invertebrados
-.489,Dasyprocta azarae,,,,
-.490,Dasyprocta mexicana,,,,
-.491,Dasyprocta punctata,,,,
-.492,Dasypus novemcinctus,,,,
-.493,Dasypus pilosus,,,,
-.494,Dasyurus albopunctatus,,,,
-.495,Dasyurus maculatus,,,,
-.496,Daubentonia madagascariensis,,,,
-.497,Deania calcea,,,,
-.498,Deinopis subrufa,,,,
-.499,Delphinapterus leucas,,,,
-.500,Dendragapus fuliginosus,,,,
-.501,Dendrelaphis kopsteini,,,,
-.502,Dendroaspis polylepis,,,,Aves
-.503,Dendrobates azureus,,,,Insectos
-.504,Dendrobates lehmanni,,,,Arácnidos
-.505,Dendrocitta bayleyii,,,,Mamíferos
-.506,Dendrocitta occipitalis,,,,Peces
-.507,Dendrolagus matschiei,,,,Invertebrados marinos
-.508,Dendropsophus ozzyi,,,,Reptiles
-.509,Dendrortyx macroura,,,,Anfibios
-.510,Dendrotriton xolocalcae,,,,Otros invertebrados
-.511,Dermochelys coriacea,,,,
-.512,Deroplatys desiccata,,,,
-.513,Deroptyus accipitrinus,,,,
-.514,Desmana moschata,,,,
-.515,Desmodus rotundus,,,,
-.516,Diactor bilineatus,,,,
-.517,Diadasia chilensis,,,,
-.518,Diadophis punctatus,,,,
-.519,Diaethria neglecta,,,,
-.520,Diapontia anfibia,,,,
-.521,Dicaeum quadricolor,,,,
-.522,Dicerorhinus sumatrensis,,,,
-.523,Dicrodon guttulatum,,,,
-.524,Didelphis marsupialis,,,,Aves
-.525,Didelphis virginiana,,,,Insectos
-.526,Dinia mena,,,,Arácnidos
-.527,Dinomys branickii,,,,Mamíferos
-.528,Diodon holocanthus,,,,Peces
-.529,Diogenes edwardsii,,,,Invertebrados marinos
-.530,Diomedea epomophora,,,,Reptiles
-.531,Diomedea sanfordi,,,,Anfibios
-.532,Diphaglossa gayi,,,,Otros invertebrados
-.533,Diplolaemus darwinii,,,,
-.534,Dipodomys ordii,,,,
-.535,Dipodomys spectabilis,,,,
-.536,Discosura popelairii,,,,
-.537,Distoechurus pennatus,,,,
-.538,Dolichotis patagonum,,,,
-.539,Doliornis sclateri,,,,
-.540,Dolophones conifera,,,,
-.541,Draco volans,,,,
-.542,Draculoides bramstokeri,,,,
-.543,Drepanicus gayi,,,,
-.544,Drepanorhynchus reichenowi,,,,
-.545,Dromiciops gliroides,,,,
-.546,Dryas iulia,,,,Aves
-.547,Dryocampa rubicunda,,,,Insectos
-.548,Dryocopus martius,,,,Arácnidos
-.549,Dugong dugon,,,,Mamíferos
-.550,Dynastes hercules,,,,Peces
-.551,Dyscophus antongilii,,,,Invertebrados marinos
-.552,Echinotriton andersoni,,,,Reptiles
-.553,Eclectus roratus,,,,Anfibios
-.554,Ectophylla alba,,,,Otros invertebrados
-.555,Edmonsia sypnoides,,,,
-.556,Egretta caerulea,,,,
-.557,Egretta thula,,,,
-.558,Eira barbara,,,,
-.559,Elaenia albiceps,,,,
-.560,Elanus leucurus,,,,
-.561,Elaphodus cephalophus,,,,
-.562,Elcysma ziroensis,,,,
-.563,Electrophorus electricus,,,,
-.564,Elephantulus revoili,,,,
-.565,Elephas maximus,,,,
-.566,Elephas maximus borneensis,,,,
-.567,Eligmodontia dunaris,,,,
-.568,Elusor macrurus,,,,Aves
-.569,Emblemaria oculocirris,,,,Insectos
-.570,Emblemaria pandionis,,,,Arácnidos
-.571,Emerita analoga,,,,Mamíferos
-.572,Empusa fasciata,,,,Peces
-.573,Empusa pennata,,,,Invertebrados marinos
-.574,Enallagma cyathigerum,,,,Reptiles
-.575,Enchelycore anatina,,,,Anfibios
-.576,Enchelycore pardalis,,,,Otros invertebrados
-.577,Enhydra lutris,,,,
-.578,Enicognathus ferrugineus,,,,
-.579,Enicognathus leptorhynchus,,,,
-.580,Enteroctopus dofleini,,,,
-.581,Enteroctopus megalocyathus,,,,
-.582,Eos bornea,,,,
-.583,Ephemeroptera,,,,
-.584,Ephippiorhynchus asiaticus,,,,
-.585,Ephippiorhynchus senegalensis,,,,
-.586,Epipedobates tricolor,,,,
-.587,Equus africanus,,,,
-.588,Equus ferus przewalskii,,,,
-.589,Equus grevyi,,,,
-.590,Equus hemionus,,,,Aves
-.591,Equus kiang,,,,Insectos
-.592,Equus quagga,,,,Arácnidos
-.593,Equus zebra,,,,Mamíferos
-.594,Eresus cinnaberinus,,,,Peces
-.595,Erethizon dorsatum,,,,Invertebrados marinos
-.596,Eretmochelys imbricata,,,,Reptiles
-.597,Eriopis chilensis,,,,Anfibios
-.598,Eriovixia gryffindori,,,,Otros invertebrados
-.599,Eristalis gatesi,,,,
-.600,Errina antarctica,,,,
-.601,Eryphanis polyxena,,,,
-.602,Erythrura gouldiae,,,,
-.603,Eschrichtius robustus,,,,
-.604,Etmopterus lailae,,,,
-.605,Eubalaena australis,,,,
-.606,Eubucco bourcierii,,,,
-.607,Euchoreutes naso,,,,
-.608,Eucrossorhinus dasypogon.,,,,
-.609,Eudocima phalonia,,,,
-.610,Eudocimus ruber,,,,
-.611,Eudyptes chrysolophus,,,,
-.612,Euglossa hansoni,,,,Aves
-.613,Euglossini,,,,Insectos
-.614,Eulemur cinereiceps,,,,Arácnidos
-.615,Eulemur flavifrons,,,,Mamíferos
-.616,Eulidia yarrellii,,,,Peces
-.617,Eulophophyllum kirki,,,,Invertebrados marinos
-.618,Eumomota superciliosa,,,,Reptiles
-.619,Eunectes murinus,,,,Anfibios
-.620,Euneomys chinchilloides,,,,Otros invertebrados
-.621,Eunice aphroditois,,,,
-.622,Euophrys omnisuperstes,,,,
-.623,Eupherusa poliocerca,,,,
-.624,Euplectes jacksoni,,,,
-.625,Euplectes orix,,,,
-.626,Euprymna berryi,,,,
-.627,Euprymna scolopes,,,,
-.628,Euprymna tasmanica,,,,
-.629,Eupsophus calcaratus,,,,
-.630,Eupsophus emiliopugini,,,,
-.631,Eupsophus septentrionalis,,,,
-.632,Euptilotis neoxenus,,,,
-.633,Eurycea sosorum,,,,
-.634,Eurylomata picturata,,,,Aves
-.635,Eurynecroscia nigrofasciata,,,,Insectos
-.636,Eurypharynx pelecanoides,,,,Arácnidos
-.637,Euspinolia militaris,,,,Mamíferos
-.638,Eutoxeres aquila,,,,Peces
-.639,Exilisciurus whiteheadi,,,,Invertebrados marinos
-.640,Extatosoma tiaratum,,,,Reptiles
-.641,Falco amurensis,,,,Anfibios
-.642,Falco cherrug,,,,Otros invertebrados
-.643,Falco deiroleucus,,,,
-.644,Falco femoralis,,,,
-.645,Falco mexicanus,,,,
-.646,Falco peregrinus,,,,
-.647,Falco rufigularis,,,,
-.648,Falco rusticolus,,,,
-.649,Falco sparverius,,,,
-.650,Falco tinnunculus,,,,
-.651,Falco vespertinus,,,,
-.652,Felis bieti,,,,
-.653,Felis catus,,,,
-.654,Felis chaus,,,,
-.655,Felis lybica,,,,
-.656,Felis margarita,,,,Aves
-.657,Felis nigripes,,,,Insectos
-.658,Felis silvestris,,,,Arácnidos
-.659,Forpus coelestis,,,,Mamíferos
-.660,Fossa fossana,,,,Peces
-.661,Fratercula arctica,,,,Invertebrados marinos
-.662,Fregata magnificens,,,,Reptiles
-.663,Fromia milleporella,,,,Anfibios
-.664,Fulica armillata,,,,Otros invertebrados
-.665,Fulica gigantea,,,,
-.666,Fulica rufifrons,,,,
-.667,Furcifer pardalis,,,,
-.668,Furcifer rhinoceratus,,,,
-.669,Furcifer timoni,,,,
-.670,Gaeotis flavolineata,,,,
-.671,Galagoides rondoensis,,,,
-.672,Galeopterus variegatus,,,,
-.673,Galictis cuja,,,,
-.674,Galidia elegans,,,,
-.675,Gallicolumba crinigera,,,,
-.676,Gallicolumba luzonica,,,,
-.677,Gallinago paraguaiae,,,,
-.678,Gallus gallus domesticus,,,,Aves
-.679,Gambelia copeii,,,,Insectos
-.680,Gasteracantha arcuata,,,,Arácnidos
-.681,Gasteracantha cancriformis,,,,Mamíferos
-.682,Gasteracantha westringi,,,,Peces
-.683,Gavialis gangeticus,,,,Invertebrados marinos
-.684,Gecarcoidea natalis,,,,Reptiles
-.685,Gekko gecko,,,,Anfibios
-.686,Genetta genetta,,,,Otros invertebrados
-.687,Geococcyx californianus,,,,
-.688,Geococcyx velox,,,,
-.689,Geosesarma dennerle,,,,
-.690,Geosesarma hagen,,,,
-.691,Geositta peruviana,,,,
-.692,Geospiza conirostris,,,,
-.693,Geospiza difficilis,,,,
-.694,Geospiza fuliginosa,,,,
-.695,Geospiza magnirostris,,,,
-.696,Geoxus valdivianus,,,,
-.697,Geranoaetus melanoleucus,,,,
-.698,Geranoaetus polyosoma,,,,
-.699,Geronticus eremita,,,,
-.700,Ginglymostoma cirratum,,,,Aves
-.701,Giraffa camelopardalis,,,,Insectos
-.702,Glaucidium nanum,,,,Arácnidos
-.703,Glaucidium sanchezi,,,,Mamíferos
-.704,Glaucomys oregonensis,,,,Peces
-.705,Glaucomys sabrinus,,,,Invertebrados marinos
-.706,Glaucomys volans,,,,Reptiles
-.707,Glaucopsyche alexis,,,,Anfibios
-.708,Glaucus atlanticus,,,,Otros invertebrados
-.709,Glirulus japonicus,,,,
-.710,Globicephala macrorhynchus,,,,
-.711,Globicephala melas,,,,
-.712,Gnolus cordiformis,,,,
-.713,Goetheana shakespearei,,,,
-.714,Gollumjapyx smeagol,,,,
-.715,Gonatista grisea,,,,
-.716,Gonatodes caudiscutatus,,,,
-.717,Gongylus gongylodes,,,,
-.718,Gonipterus platensis,,,,
-.719,Gonyosoma boulengeri,,,,
-.720,Gorgonocephalus chilensis,,,,
-.721,Gorgonocephalus eucnemis,,,,
-.722,Gorilla beringei beringei,,,,Aves
-.723,Gorilla beringei graueri,,,,Insectos
-.724,Gorilla gorilla,,,,Arácnidos
-.725,Gorilla gorilla diehli,,,,Mamíferos
-.726,Gorilla gorilla gorilla,,,,Peces
-.727,Goura victoria,,,,Invertebrados marinos
-.728,Gracililima nyassae,,,,Reptiles
-.729,Gracula religiosa,,,,Anfibios
-.730,Graellsia isabellae,,,,Otros invertebrados
-.731,Grammostola pulchra,,,,
-.732,Grammostola rosea,,,,
-.733,Grampus griseus,,,,
-.734,Grandala coelicolor,,,,
-.735,Greta oto,,,,
-.736,Grus americana,,,,
-.737,Gulo gulo,,,,
-.738,Gymnobelideus leadbeateri,,,,
-.739,Gymnomuraena zebra,,,,
-.740,Gymnorhina tibicen,,,,
-.741,Gymnothorax javanicus,,,,
-.742,Gynaephora groenlandica,,,,
-.743,Gypaetus barbatus,,,,
-.744,Gyps bengalensis,,,,Aves
-.745,Gyps himalayensis,,,,Insectos
-.746,Gyriosomus,,,,Arácnidos
-.747,Habronattus agilis,,,,Mamíferos
-.748,Habronattus altanus,,,,Peces
-.749,Habronattus americanus,,,,Invertebrados marinos
-.750,Habronattus amicus,,,,Reptiles
-.751,Habronattus coecatus,,,,Anfibios
-.752,Habronattus viridipes,,,,Otros invertebrados
-.753,Hadrurus arizonensis,,,,
-.754,Haematopus ater,,,,
-.755,Haematopus palliatus,,,,
-.756,Halcyon smyrnensis,,,,
-.757,Haliaeetus leucocephalus,,,,
-.758,Halitrephes maasi,,,,
-.759,Hamadryas amphinome,,,,
-.760,Hapalochlaena lunulata,,,,
-.761,Haploa clymene,,,,
-.762,Harmonia axyridis,,,,
-.763,Harpia harpyja,,,,
-.764,Hedydipna collaris,,,,
-.765,Hedydipna metallica,,,,
-.766,Hedydipna platura,,,,Aves
-.767,Helarctos malayanus,,,,Insectos
-.768,Heliangelus regalis,,,,Arácnidos
-.769,Heliothryx barroti,,,,Mamíferos
-.770,Heloderma horridum,,,,Peces
-.771,Heloderma suspectum,,,,Invertebrados marinos
-.772,Hemaris tityus,,,,Reptiles
-.773,Hemeroplanes triptolemus,,,,Anfibios
-.774,Hemicentetes semispinosus,,,,Otros invertebrados
-.775,Hemiphractus fasciatus,,,,
-.776,Hemiscyllium ocellatum,,,,
-.777,Hermissenda crassicornis,,,,
-.778,Hermissenda opalescens,,,,
-.779,Herpailurus yagouaroundi,,,,
-.780,Herpestes ichneumon,,,,
-.781,Herpetotheres cachinnans,,,,
-.782,Heteragrion,,,,
-.783,Heterocentrotus mamillatus,,,,
-.784,Heterocephalus glaber,,,,
-.785,Heteronemia chilensis,,,,
-.786,Heteropoda boiei,,,,
-.787,Heteropoda davidbowie,,,,
-.788,Hexabranchus sanguineus,,,,Aves
-.789,Hexanchus griseus,,,,Insectos
-.790,Hieraaetus wahlbergi,,,,Arácnidos
-.791,Himantopus leucocephalus,,,,Mamíferos
-.792,Himantopus melanurus,,,,Peces
-.793,Hippocamelus antisensis,,,,Invertebrados marinos
-.794,Hippocamelus bisulcus,,,,Reptiles
-.795,Hippocampus bargibanti,,,,Anfibios
-.796,Hippocampus colemani,,,,Otros invertebrados
-.797,Hippocampus zosterae,,,,
-.798,Hippopotamus amphibius,,,,
-.799,Hirmoneura brevirostrata,,,,
-.800,Histioea meldolae,,,,
-.801,Histiotus laephotis,,,,
-.802,Histiotus macrotus,,,,
-.803,Histiotus magellanicus,,,,
-.804,Histiotus montanus,,,,
-.805,Hoolock hoolock,,,,
-.806,Hoolock leuconedys,,,,
-.807,Hoolock tianxing,,,,
-.808,Hoplia coerulea,,,,
-.809,Horama panthalon,,,,
-.810,Hyaena brunnea,,,,Aves
-.811,Hyaena hyaena,,,,Insectos
-.812,Hyalinobatrachium dianae,,,,Arácnidos
-.813,Hyalophora cecropia,,,,Mamíferos
-.814,Hydrochoerus hydrochaeris,,,,Peces
-.815,Hydrophis elegans,,,,Invertebrados marinos
-.816,Hydrophis platurus,,,,Reptiles
-.817,Hydropotes inermis,,,,Anfibios
-.818,Hydrosaurus,,,,Otros invertebrados
-.819,Hydrurga leptonyx,,,,
-.820,Hyemoschus aquaticus,,,,
-.821,Hyla meridionalis,,,,
-.822,Hylamorpha elegans,,,,
-.823,Hylephila fasciolata,,,,
-.824,Hylephila phyleus,,,,
-.825,Hyles annei,,,,
-.826,Hyllus diardi,,,,
-.827,Hyllus giganteus,,,,
-.828,Hyllus semicupreus,,,,
-.829,Hylobates agilis,,,,
-.830,Hylobates albibarbis,,,,
-.831,Hylobates klossii,,,,
-.832,Hylobates lar,,,,Aves
-.833,Hylobates moloch,,,,Insectos
-.834,Hylobates muelleri,,,,Arácnidos
-.835,Hylobates pileatus,,,,Mamíferos
-.836,Hylomantis lemur,,,,Peces
-.837,Hylorina sylvatica,,,,Invertebrados marinos
-.838,Hyloscirtus lindae,,,,Reptiles
-.839,Hymenocera picta,,,,Anfibios
-.840,Hymenops perspicillatus,,,,Otros invertebrados
-.841,Hymenopus coronatus,,,,
-.842,Hynobius formosanus,,,,
-.843,Hypentelium nigricans,,,,
-.844,Hyperolius leucotaenius,,,,
-.845,Hypselodoris,,,,
-.846,Hypsignathus monstrosus,,,,
-.848,Ibycus rachelae,,,,
-.847,Ichthyophaga ichthyaetus,,,,
-.849,Icterus gularis,,,,
-.850,Icterus icterus,,,,
-.851,Idalus herois,,,,
-.852,Idiopsar dorsalis,,,,
-.853,Idolomantis diabolica,,,,
-.854,Ifrita kowaldi,,,,Aves
-.855,Iguana iguana,,,,Insectos
-.856,Imantodes cenchoa,,,,Arácnidos
-.857,Indri indri,,,,Mamíferos
-.858,Inia geoffrensis,,,,Peces
-.859,Insuetophrynus acarpicus,,,,Invertebrados marinos
-.860,Iodopleura isabellae,,,,Reptiles
-.861,Irenomys tarsalis,,,,Anfibios
-.862,Irura bidenticulata,,,,Otros invertebrados
-.863,Isepeolus luctuosus,,,,
-.864,Isoxya tabulata,,,,
-.865,Istiophorus albicans,,,,
-.866,Isurus oxyrinchus,,,,
-.867,Ixothraupis guttata,,,,
-.868,Jabiru mycteria,,,,
-.869,Jacamaralcyon tridactyla,,,,
-.870,Jacamerops aureus,,,,
-.871,Janthina janthina,,,,
-.872,Jorunna parva,,,,
-.873,Jotus karllagerfeldi,,,,
-.874,Jotus remus,,,,
-.875,Junco hyemalis,,,,
-.876,Junionia almana,,,,Aves
-.877,Kallima inachus,,,,Insectos
-.878,Kataphraktosaurus ungerhamiltoni,,,,Arácnidos
-.879,Kerivoula picta,,,,Mamíferos
-.880,Kiwa hirsuta,,,,Peces
-.881,Kryptopterus minor,,,,Invertebrados marinos
-.882,Kuschelina decorata,,,,Reptiles
-.883,Lachnolaimus maximus,,,,Anfibios
-.884,Lactoria cornuta,,,,Otros invertebrados
-.885,Lagenorhynchus australis,,,,
-.886,Lagenorhynchus cruciger,,,,
-.887,Lagidium peruanum,,,,
-.888,Lagidium viscacia,,,,
-.889,Lagothrix cana,,,,
-.890,Lagothrix lagotricha,,,,
-.891,Lama glama,,,,
-.892,Lama guanicoe,,,,
-.893,Lamna nasus,,,,
-.894,Lampornis calolaemus,,,,
-.895,Lampornis castaneoventris,,,,
-.896,Lamprolaima rhami,,,,
-.897,Lamproptera meges,,,,
-.898,Lamprotornis nitens,,,,Aves
-.899,Lamprotornis purpureus,,,,Insectos
-.900,Langaha madagascariensis,,,,Arácnidos
-.901,Laniocera hypopyrra,,,,Mamíferos
-.902,Lanius cristatus,,,,Peces
-.903,Lanthanotus borneensis,,,,Invertebrados marinos
-.904,Larosterna inca,,,,Reptiles
-.905,Larus dominicanus,,,,Anfibios
-.906,Larvivora komadori,,,,Otros invertebrados
-.907,Lasia corvina,,,,
-.908,Lasia nigritarsis,,,,
-.909,Lasia rufovestita,,,,
-.910,Lasionota picta,,,,
-.911,Lasiorhinus krefftii,,,,
-.912,Lasiurus cinereus,,,,
-.913,Lasiurus varius,,,,
-.914,Laticauda colubrina,,,,
-.915,Lebeda,,,,
-.916,Leiothrix lutea,,,,
-.917,Leistes loyca,,,,
-.918,Lemur catta,,,,
-.919,Leontopithecus caissara,,,,
-.920,Leontopithecus chrysomelas,,,,Aves
-.921,Leontopithecus chrysopygus,,,,Insectos
-.922,Leontopithecus rosalia,,,,Arácnidos
-.923,Leopardus colocolo,,,,Mamíferos
-.924,Leopardus colocolo colocolo,,,,Peces
-.925,Leopardus garleppi,,,,Invertebrados marinos
-.926,Leopardus geoffroyi,,,,Reptiles
-.927,Leopardus guigna,,,,Anfibios
-.928,Leopardus guttulus,,,,Otros invertebrados
-.929,Leopardus jacobita,,,,
-.930,Leopardus pajeros,,,,
-.931,Leopardus pardalis,,,,
-.932,Leopardus tigrinus,,,,
-.933,Leopardus wiedii,,,,
-.934,Lepidobatrachus laevis,,,,
-.935,Lepidoblepharis miyatai,,,,
-.936,Lepidodactylus yami,,,,
-.937,Lepidophyma smithii,,,,
-.938,Lepilemur ankaranensis,,,,
-.939,Lepilemur dorsalis,,,,
-.940,Lepilemur edwardsi,,,,
-.941,Lepilemur septentrionalis,,,,
-.942,Leptailurus serval,,,,Aves
-.943,Leptasthenura aegithaloides,,,,Insectos
-.944,Leptasthenura xenothorax,,,,Arácnidos
-.945,Leptocoma aspasia,,,,Mamíferos
-.946,Leptocoma minima,,,,Peces
-.947,Leptopoecile sophiae,,,,Invertebrados marinos
-.948,Leptoptilos crumenifer,,,,Reptiles
-.949,Leptosittaca branickii,,,,Anfibios
-.950,Lepus arcticus,,,,Otros invertebrados
-.951,Lepus californicus,,,,
-.952,Lepus flavigularis,,,,
-.953,Lessonia rufa,,,,
-.954,Leucauge,,,,
-.955,Leucophaeus modestus,,,,
-.956,Leucophaeus scoresbii,,,,
-.957,Leucopsar rothschildi,,,,
-.958,Levitonius mirus,,,,
-.959,Lexias pardalis,,,,
-.960,Libytheana carinenta,,,,
-.961,Liguus virgineus,,,,
-.962,Lilioceris lilioceris,,,,
-.963,Limaformosa capensis,,,,
-.964,Limenitis reducta,,,,Aves
-.965,Limosa fedoa,,,,Insectos
-.966,Limosa haemastica,,,,Arácnidos
-.967,Limulus polyphemus,,,,Mamíferos
-.968,Liolaemus chiliensis,,,,Peces
-.969,Liolaemus chillanensis,,,,Invertebrados marinos
-.970,Liolaemus confusus,,,,Reptiles
-.972,Liolaemus curicensis,,,,Otros invertebrados
-.971,Liolaemus cyanogaster,,,,Anfibios
-.973,Liolaemus fabiani,,,,
-.974,Liolaemus lemniscatus,,,,
-.975,Liolaemus leopardinus,,,,
-.976,Liolaemus nigriceps,,,,
-.977,Liolaemus nitidus,,,,
-.978,Liolaemus pictus,,,,
-.979,Liolaemus tenuis,,,,
-.980,Liomera rugata,,,,
-.981,Liomys irroratus,,,,
-.982,Liposarcus pardalis,,,,
-.983,Lipotes vexillifer,,,,
-.984,Lithobates sylvaticus,,,,
-.985,Litocranius walleri,,,,
-.986,Litoria caerulea,,,,Aves
-.987,Loddigesia mirabilis,,,,Insectos
-.988,Lontra felina,,,,Arácnidos
-.989,Lontra provocax,,,,Mamíferos
-.990,Lophocebus aterrimus,,,,Peces
-.991,Lophochroa leadbeateri,,,,Invertebrados marinos
-.992,Lophophorus impejanus,,,,Reptiles
-.993,Lophorina niedda,,,,Anfibios
-.994,Lophorina victoriae,,,,Otros invertebrados
-.995,Lophornis adorabilis,,,,
-.996,Lophornis brachylophus,,,,
-.997,Lophornis chalybeus,,,,
-.998,Lophornis delattrei,,,,
-.999,Lophornis helenae,,,,
+01,Abrocoma bennetti,*,Mastodon,,Aves
+02,Abronia smithi,*,Mastodon,,Insectos
+03,Abrothrix jelskii,*,Mastodon,,Arácnidos
+04,Abrothrix longipilis,*,Mastodon,,Mamíferos
+05,Abrothrix olivacea,*,,,Peces
+06,Aburria aburri,*,,,Invertebrados marinos
+07,Acalodegma vidali,*,,,Reptiles
+08,Acanthinodera cummingi,*,,,Anfibios
+09,Accipiter chilensis,*,,,Otros invertebrados
+10,Acerodon jubatus,*,,,
+11,Acinonyx jubatus,*,,,
+12,Acisoma attenboroughi,*,,,
+13,Acraga coa,*,,,Aves
+14,Acrobates pygmaeus,*,,,Insectos
+15,Acrochordus javanicus,*,,,Arácnidos
+16,Acryllium vulturinum,*,,,Mamíferos
+17,Actias luna,*,,,Peces
+18,Actophilornis africanus,*,,,Invertebrados marinos
+19,Adalia angulifera,*,,,Reptiles
+20,Adetomeris erythrops,*,,,Anfibios
+21,Aethopyga siparaja,*,,,Otros invertebrados
+22,Aethopyga vigorsii,*,,,
+23,Agalychnis callidryas,*,,,
+24,Agamia agami,*,,,
+25,Agapornis fischeri,*,,,Aves
+26,Agathemera crassa,*,,,Insectos
+27,Agathidium vaderi,*,,,Arácnidos
+28,Agelasticus thilius,*,,,Mamíferos
+29,Aglaiocercus kingii,*,,,Peces
+30,Aglantha digitale,*,,,Invertebrados marinos
+31,Agra katewinsletae,*,,,Reptiles
+32,Agra liv,*,,,Anfibios
+33,Agra schwarzeneggeri,*,,,Otros invertebrados
+34,Agrias narcissus,*,,,
+35,Agriornis albicauda,*,,,
+36,Agriornis livida,*,,,
+37,Ahaetulla mycterizans,*,,,Aves
+38,Ailuropoda melanoleuca,*,,,Insectos
+39,Ailurus fulgens,,,,Arácnidos
+40,Aipysurus duboisii,,,,Mamíferos
+41,Aix galericulata,,,,Peces
+42,Alcelaphus buselaphus,,,,Invertebrados marinos
+43,Alcides agathyrsus,,,,Reptiles
+44,Alectoris rufa,,,,Anfibios
+45,Aleiodes shakirae,,,,Otros invertebrados
+46,Allendia chilensis,,,,
+47,Allenopithecus nigroviridis,,,,
+48,Alligator sinensis,,,,
+49,Allochrocebus lhoesti,,,,Aves
+50,Allochrocebus preussi,,,,Insectos
+51,Allochrocebus solatus,,,,Arácnidos
+52,Alloscirtetica gayi,,,,Mamíferos
+53,Alopecosa fabrilis,,,,Peces
+54,Alopias vulpinus,,,,Invertebrados marinos
+55,Alouatta caraya,,,,Reptiles
+56,Alouatta pigra,,,,Anfibios
+57,Alouatta seniculus,,,,Otros invertebrados
+58,Alsodes barrioi,,,,
+59,Alsodes cantillanensis,,,,
+60,Alsodes hugoi,,,,
+61,Alsodes igneus,,,,Aves
+62,Alsodes vanzolinii,,,,Insectos
+63,Alytes obstetricans,,,,Arácnidos
+64,Amazilia boucardi,,,,Mamíferos
+65,Amazona aestiva,,,,Peces
+66,Amazona pretrei,,,,Invertebrados marinos
+67,Amblyrhynchus cristatus,,,,Reptiles
+68,Amblysomus hottentotus,,,,Anfibios
+69,Ambystoma mexicanum,,,,Otros invertebrados
+70,Ambystoma opacum,,,,
+71,Amegilla cingulata,,,,
+72,Amerila crokeri,,,,
+73,Amorphochilus schnablii,,,,Aves
+74,Amphioctopus marginatus,,,,Insectos
+75,Anairetes alpinus,,,,Arácnidos
+76,Anairetes fernandezianus,,,,Mamíferos
+77,Anairetes parulus,,,,Peces
+78,Anarhichas lupus,,,,Invertebrados marinos
+79,Anas georgica,,,,Reptiles
+80,Anas sibilatrix,,,,Anfibios
+81,Anastomus lamelligerus,,,,Otros invertebrados
+82,Anax imperator,,,,
+83,Ancistrocheirus lesueurii,,,,
+84,Andeabatis chilensis,,,,
+85,Andrias davidianus,,,,Aves
+86,Aneriophora aureorufa,,,,Insectos
+87,Anguis fragilis,,,,Arácnidos
+88,Anhinga anhinga,,,,Mamíferos
+89,Anolis aquaticus,,,,Peces
+90,Anophthalmus hitleri,,,,Invertebrados marinos
+91,Anoura fistulata,,,,Reptiles
+92,Antennarius nummifer,,,,Anfibios
+93,Anteros renaldus,,,,Otros invertebrados
+94,Antheraea polyphemus,,,,
+95,Antheraea yamamai,,,,
+96,Anthobaphes violacea,,,,
+97,Aonyx cinereus,,,,Aves
+98,Aotus miconax,,,,Insectos
+99,Apalone spinifera,,,,Arácnidos
+100,Aphaniotis fusca,,,,Mamíferos
+101,Apis mellifera,,,,Peces
+102,Aplysia punctata,,,,Invertebrados marinos
+103,Apogon cyanosoma,,,,Reptiles
+104,Aptenodytes forsteri,,,,Anfibios
+105,Aptenodytes patagonicus,,,,Otros invertebrados
+106,Apterodorcus bacchus,,,,
+107,Apteryx australis,,,,
+108,Apteryx owenii,,,,
+109,Aptostichus barackobamai,,,,Aves
+110,Aquila chrysaetos,,,,Insectos
+111,Ara militaris,,,,Arácnidos
+112,Arachnothera clarae,,,,Mamíferos
+113,Arachnothera magna,,,,Peces
+114,Arapaima gigas,,,,Invertebrados marinos
+115,Arctia caja,,,,Reptiles
+116,Arctictis binturong,,,,Anfibios
+117,Arctocephalus australis,,,,Otros invertebrados
+118,Ardea alba,,,,
+119,Ardea cocoi,,,,
+120,Ardea herodias,,,,
+121,Ardeotis kori,,,,Aves
+122,Arelate limbellata,,,,Insectos
+123,Argema mittrei,,,,Arácnidos
+124,Argiope argentata,,,,Mamíferos
+125,Argiope lobata,,,,Peces
+126,Argonauta,,,,Invertebrados marinos
+127,Argyrophorus argenteus,,,,Reptiles
+128,Ariadna maxima,,,,Anfibios
+129,Ariadna motumotirohiva,,,,Otros invertebrados
+130,Arkys lancearius,,,,
+131,Ascalapha odorata,,,,
+132,Asio flammeus suinda,,,,
+133,Asio stygius,,,,Aves
+134,Aspidimorpha miliaris,,,,Insectos
+135,Aspidolobus sebastianpinerai,,,,Arácnidos
+136,Astylus trifasciatus,,,,Mamíferos
+137,Ateles belzebuth,,,,Peces
+138,Ateles chamek,,,,Invertebrados marinos
+139,Ateles fusciceps,,,,Reptiles
+140,Ateles hybridus,,,,Anfibios
+141,Atelocynus microtis,,,,Otros invertebrados
+142,Atelognathus patagonicus,,,,
+143,Atelopus zeteki,,,,
+144,Athene cunicularia,,,,
+145,Atheris hispida,,,,Aves
+146,Atheris squamigera,,,,Insectos
+147,Atomosphyrus tristiculus,,,,Arácnidos
+148,Atretochoana eiselti,,,,Mamíferos
+149,Attacus atlas,,,,Peces
+150,Attenborougharion rubicundus,,,,Invertebrados marinos
+151,Atthis ellioti,,,,Reptiles
+152,Automeris larra,,,,Anfibios
+153,Ayam cemani,,,,Otros invertebrados
+154,Babyrousa babyrussa,,,,
+155,Bacunculus phyllopus,,,,
+156,Bagheera kiplingi,,,,
+157,Balaeniceps rex,,,,Aves
+158,Balaenoptera musculus,,,,Insectos
+159,Balearica regulorum,,,,Arácnidos
+160,Barsine orientalis,,,,Mamíferos
+161,Basiliscus basiliscus,,,,Peces
+162,Basiliscus plumifrons,,,,Invertebrados marinos
+163,Bassariscus astutus,,,,Reptiles
+164,Batesia hypochlora,,,,Anfibios
+165,Bathynomus giganteus,,,,Otros invertebrados
+166,Batrachoseps gavilanensis,,,,
+167,Batrachostomus cornutus,,,,
+168,Batrachostomus harterti,,,,
+169,Batrachyla antartandica,,,,Aves
+170,Batrachyla leptopus,,,,Insectos
+171,Battus polydamas archidamas,,,,Arácnidos
+172,Beatragus hunteri,,,,Mamíferos
+173,Bipes biporus,,,,Peces
+174,Birupes simoroxigorum,,,,Invertebrados marinos
+175,Bison bison,,,,Reptiles
+176,Blaesospira echinus infernalis,,,,Anfibios
+177,Blastocerus dichotomus,,,,Otros invertebrados
+178,Boa constrictor,,,,
+179,Bocydium globulare,,,,
+180,Bolitoglossa franklini,,,,
+181,Bombus dahlbomii,,,,Aves
+182,Bombus funebris,,,,Insectos
+183,Bombus terrestris,,,,Arácnidos
+184,Bombyx mori,,,,Mamíferos
+185,Bos primigenius taurus,,,,Peces
+186,Bothriechis rowleyi,,,,Invertebrados marinos
+187,Bothriechis schlegelii,,,,Reptiles
+188,Bothus mancus,,,,Anfibios
+189,Brachistosternus cepedai,,,,Otros invertebrados
+190,Bradypus pygmaeus,,,,
+191,Bradypus torquatus,,,,
+192,Bradypus tridactylus,,,,
+193,Bradypus variegatus,,,,
+194,Brahmaea wallichii,,,,
+195,Breviceps fuscus,,,,
+196,Breviceps macrops,,,,
+197,Brookesia micra,,,,
+198,Brookesia nana,,,,
+199,Brotogeris cyanoptera,,,,
+200,Bryaninops natans,,,,
+201,Bubo lacteus,,,,
+202,Bubo magellanicus,,,,
+203,Bubo scandiacus,,,,
+204,Bubulcus ibis,,,,
+205,Buceros bicornis,,,,
+206,Bucorvus abyssinicus,,,,
+207,Budorcas taxicolor,,,,
+208,Bumba lennoni,,,,Aves
+209,Burhinus superciliaris,,,,Insectos
+210,Burramys parvus,,,,Arácnidos
+211,Buteo albigula,,,,Mamíferos
+212,Buteo ventralis,,,,Peces
+213,Cacajao calvus,,,,Invertebrados marinos
+214,Cadeguala occidentalis,,,,Reptiles
+215,Caiman crocodilus,,,,Anfibios
+216,Caiman latirostris,,,,Otros invertebrados
+217,Caiman yacare,,,,
+218,Calendyma chilensis,,,,
+219,Calidris alba,,,,
+220,Calidris pugnax,,,,
+221,Callicebus lucifer,,,,
+222,Callicebus oenanthe,,,,
+223,Callimico goeldii,,,,
+224,Callimorpha dominula,,,,
+225,Calliophis bivirgata,,,,
+226,Callisphyris apicicornis,,,,
+227,Callistochlora chloris,,,,
+228,Callonia ellioti,,,,
+229,Callopistes maculatus,,,,
+230,Callopistromyia annulipes,,,,
+231,Callorhinchus milii,,,,
+232,Caloenas nicobarica,,,,
+233,Calumma parsonii,,,,
+234,Calyptocephalella gayi,,,,
+235,Camelus bactrianus,,,,Aves
+236,Camelus dromedarius,,,,Insectos
+237,Camelus ferus,,,,Arácnidos
+238,Campephilus magellanicus,,,,Mamíferos
+239,Canis adustus,,,,Peces
+240,Canis aureus,,,,Invertebrados marinos
+241,Canis latrans,,,,Reptiles
+242,Canis lupus,,,,Anfibios
+243,Canis lupus dingo,,,,Otros invertebrados
+244,Canis lupus signatus,,,,
+245,Canis mesomelas,,,,
+246,Canis rufus,,,,
+247,Canis simensis,,,,
+248,Capra aegagrus hircus,,,,
+249,Capra falconeri,,,,
+250,Capra ibex,,,,
+251,Capra nubiana,,,,
+252,Capra pyrenaica,,,,
+253,Caprimulgus longipennis,,,,
+254,Caracal aurata,,,,
+255,Caracal caracal,,,,
+256,Caracara plancus,,,,
+257,Carcharodon carcharias,,,,
+258,Cardinalis cardinalis,,,,
+259,Caretta caretta,,,,
+260,Carettochelys insculpta,,,,
+261,Cassida azurea,,,,
+262,Cassiopea,,,,Aves
+263,Castnia eudesmia,,,,Insectos
+264,Castor fiber,,,,Arácnidos
+265,Casuarius casuarius,,,,Mamíferos
+266,Catagonus wagneri,,,,Peces
+267,Cathartes aura jota,,,,Invertebrados marinos
+268,Catocala fraxini,,,,Reptiles
+269,Catopuma badia,,,,Anfibios
+270,Catopuma temminckii,,,,Otros invertebrados
+271,Cavolinia tridentata,,,,
+272,Cebuella pygmaea,,,,
+273,Cebus apella,,,,
+274,Celeus flavus,,,,
+275,Centris rhodophthalma,,,,
+276,Centrocercus urophasianus,,,,
+277,Centurio senex,,,,
+278,Cephalopachus bancanus,,,,
+279,Cephalopterus penduliger,,,,
+280,Cephalorhynchus eutropia,,,,
+281,Cephalorhynchus hectori,,,,
+282,Cephalotes varians,,,,
+283,Cephea cephea,,,,
+284,Cerastes cerastes,,,,
+285,Ceratophrys ornata,,,,
+286,Ceratopipra erythrocephala,,,,
+287,Ceratopipra mentalis,,,,
+288,Ceratotherium simum,,,,
+289,Cercophana venusta,,,,Aves
+290,Cercopithecus lomamiensis,,,,Insectos
+291,Cercopithecus neglectus,,,,Arácnidos
+292,Cerdocyon thous,,,,Mamíferos
+293,Ceroglossus chilensis,,,,Peces
+294,Cetonia aurata,,,,Invertebrados marinos
+295,Cetorhinus maximus,,,,Reptiles
+296,Ceyx erithaca,,,,Anfibios
+297,Ceyx rufidorsa,,,,Otros invertebrados
+298,Chaetodon litus,,,,
+299,Chaetomys subspinosus,,,,
+300,Chaetophractus villosus,,,,
+301,Chalcostigma herrani,,,,
+302,Chamaeleo calyptratus,,,,
+303,Charadrius falklandicus,,,,
+304,Charadrius nivosus,,,,
+305,Charidotella sexpunctata,,,,
+306,Cheguevaria montana,,,,
+307,Chelemys megalonyx,,,,
+308,Chelidonura varians,,,,
+309,Cheloderus childreni,,,,
+310,Chelodina longicollis,,,,
+311,Chelonia mydas,,,,
+312,Chelonoidis abingdoni,,,,
+313,Chelonoidis becki,,,,
+314,Chelonoidis carbonaria,,,,
+315,Chelonoidis vicina,,,,
+316,Chelus fimbriata,,,,Aves
+317,Chenoderus bicolor,,,,Insectos
+318,Chiasognathus grantii,,,,Arácnidos
+319,Chilecicada occidentis,,,,Mamíferos
+320,Chimaera monstrosa,,,,Peces
+321,Chinchilla chinchilla,,,,Invertebrados marinos
+322,Chinchilla lanigera,,,,Reptiles
+323,Chionodraco rastrospinosus,,,,Anfibios
+324,Chironectes minimus,,,,Otros invertebrados
+325,Chiropotes satanas,,,,
+326,Chiroxiphia caudata,,,,
+327,Chitra indica,,,,
+328,Chlamydosaurus kingii,,,,
+329,Chlamydoselachus anguineus,,,,
+330,Chlamyphorus truncatus,,,,
+331,Chlidonoptera lestoni,,,,
+332,Chloephaga hybrida,,,,
+333,Chloephaga rubidiceps,,,,
+334,Chlorophonia callophrys,,,,
+335,Choeradodis rhomboidea,,,,
+336,Choeropsis liberiensis,,,,
+337,Choloepus didactylus,,,,
+338,Choloepus hoffmanni,,,,
+339,Chordeiles minor,,,,
+340,Chroicocephalus serranus,,,,
+341,Chromodoris lochi,,,,
+342,Chrysaora achlyos,,,,
+343,Chrysaora plocamia,,,,Aves
+344,Chrysilla volupe,,,,Insectos
+345,Chrysiridia rhipheus,,,,Arácnidos
+346,Chrysis,,,,Mamíferos
+347,Chrysis chilensis,,,,Peces
+348,Chrysochus auratus,,,,Invertebrados marinos
+349,Chrysocyon brachyurus,,,,Reptiles
+350,Chrysolina cerealis,,,,Anfibios
+351,Chrysolophus amherstiae,,,,Otros invertebrados
+352,Chrysolophus pictus,,,,
+353,Chrysomallon squamiferum,,,,
+354,Chrysopelea paradisi,,,,
+355,Cicindela hudsoni,,,,
+356,Cicindela sexguttata,,,,
+357,Cicinnurus magnificus,,,,
+358,Cicinnurus regius,,,,
+359,Cicinnurus respublica,,,,
+360,Ciconia nigra,,,,
+361,Cinclodes patagonicus,,,,
+362,Cinnyricinclus leucogaster,,,,
+363,Cinnyris asiaticus,,,,
+364,Cinnyris buettikoferi,,,,
+365,Cinnyris chloropygius,,,,
+366,Cinnyris coccinigastrus,,,,
+367,Cinnyris coquerellii,,,,
+368,Cinnyris cupreus,,,,
+369,Cinnyris dussumieri,,,,
+370,Cinnyris fuelleborni,,,,Aves
+371,Cinnyris fuscus,,,,Insectos
+372,Cinnyris habessinicus,,,,Arácnidos
+373,Cinnyris humbloti,,,,Mamíferos
+374,Cinnyris johannae,,,,Peces
+375,Cinnyris jugularis,,,,Invertebrados marinos
+376,Cinnyris lotenius,,,,Reptiles
+377,Cinnyris notatus,,,,Anfibios
+378,Cinnyris osea,,,,Otros invertebrados
+379,Cinnyris regius,,,,
+380,Cinnyris solaris,,,,
+381,Cinnyris sovimanga,,,,
+382,Cinnyris superbus,,,,
+383,Cinnyris venustus,,,,
+384,Circus buffoni,,,,
+385,Circus cinereus,,,,
+386,Cissa chinensis,,,,
+387,Cithaerias pireta,,,,
+388,Citheronia regalis,,,,
+389,Clavelina lepadiformis,,,,
+390,Clavelina moluccensis,,,,
+391,Climaciella brunnea,,,,
+392,Clione limacina,,,,Aves
+393,Cochranella granulosa,,,,Insectos
+394,Coendou prehensilis,,,,Arácnidos
+395,Colaptes pitius,,,,Mamíferos
+396,Coleura seychellensis,,,,Peces
+397,Colias vauthieri,,,,Invertebrados marinos
+398,Colluricincla megarhyncha,,,,Reptiles
+399,Columba livia,,,,Anfibios
+400,Columbina cruziana,,,,Otros invertebrados
+401,Columbina inca,,,,
+402,Condylura cristata,,,,
+403,Conepatus chinga,,,,
+404,Congridae,,,,
+405,Conirostrum tamarugense,,,,
+406,Conognatha soubervi,,,,
+407,Conognatha viridiventris sagittaria,,,,
+408,Conolophus marthae,,,,
+409,Conus textile,,,,
+410,Coptopteryx gayi,,,,
+411,Coracias benghalensis,,,,
+412,Coracias caudatus,,,,
+413,Coracias garrulus,,,,
+414,Coragyps atratus,,,,Aves
+415,Corallus caninus,,,,Insectos
+416,Correlophus ciliatus,,,,Arácnidos
+417,Corucia zebrata,,,,Mamíferos
+418,Corvus brachyrhynchos,,,,Peces
+419,Corvus corax,,,,Invertebrados marinos
+420,Corvus monedula,,,,Reptiles
+421,Corvus ossifragus,,,,Anfibios
+422,Coscoroba coscoroba,,,,Otros invertebrados
+423,Cosmosoma myrodora,,,,
+424,Costasiella kuroshimae,,,,
+425,Cotinis mutabilis,,,,
+426,Craspedotropis gretathunbergae,,,,
+427,Cratomelus armatus,,,,
+428,Craugastor lineatus,,,,
+429,Crax daubentoni,,,,
+430,Creatonotos gangis,,,,
+431,Creobroter pictipennis,,,,
+432,Cristiceps aurantiacus,,,,
+433,Crocodylus acutus,,,,
+434,Crocodylus moreletii,,,,
+435,Crocuta crocuta,,,,
+436,Crotalus adamanteus,,,,Aves
+437,Crotophaga sulcirostris,,,,Insectos
+438,Crypsirina cucullata,,,,Arácnidos
+439,Crypsirina temia,,,,Mamíferos
+440,Cryptobranchus alleganiensis,,,,Peces
+441,Cryptoprocta ferox,,,,Invertebrados marinos
+442,Crypturellus undulatus,,,,Reptiles
+443,Ctenoderus oyarcei,,,,Anfibios
+444,Ctenomys leucodon,,,,Otros invertebrados
+445,Ctenophora,,,,
+446,Ctenosaura similis,,,,
+447,Ctenucha vittigera,,,,
+448,Cucujus clavipes,,,,
+449,Cuniculus paca,,,,
+450,Cuon alpinus,,,,
+451,Curaeus curaeus,,,,
+452,Cutia nipalensis,,,,
+453,Cyanea capillata,,,,
+454,Cyanea lamarckii,,,,
+455,Cyanocitta cristata,,,,
+456,Cyanocorax chrysops,,,,
+457,Cyanocorax dickeyi,,,,
+458,Cyanocorax yncas,,,,Aves
+459,Cyanogaster noctivaga,,,,Insectos
+460,Cyanoliseus patagonus bloxami,,,,Arácnidos
+461,Cyanolyca mirabilis,,,,Mamíferos
+462,Cyanomitra verticalis,,,,Peces
+463,Cyanopica cooki,,,,Invertebrados marinos
+464,Cyclocosmia truncata,,,,Reptiles
+465,Cyclograpsus cinereus,,,,Anfibios
+466,Cyclommatus metallifer,,,,Otros invertebrados
+467,Cycloneda sanguinea,,,,
+468,Cyclopes didactylus,,,,
+469,Cyclura lewisi,,,,
+470,Cyerce elegans,,,,
+471,Cyerce kikutarobabai,,,,
+472,Cyerce nigra,,,,
+473,Cyerce nigricans,,,,
+474,Cygnus atratus,,,,
+475,Cygnus melancoryphus,,,,
+476,Cylindrophora maulica,,,,
+477,Cymbirhynchus macrorhynchos,,,,
+478,Cynomys ludovicianus,,,,
+479,Cyphoma gibbosum,,,,
+480,Cyrtonyx montezumae,,,,Aves
+481,Cystophora cristata,,,,Insectos
+482,Dacelo,,,,Arácnidos
+483,Dactylotum bicolor,,,,Mamíferos
+484,Dalatias licha,,,,Peces
+485,Damon diadema,,,,Invertebrados marinos
+486,Danaus plexippus,,,,Reptiles
+487,Danielaparra fragmentata,,,,Anfibios
+488,Daphnis nerii,,,,Otros invertebrados
+489,Dasyprocta azarae,,,,
+490,Dasyprocta mexicana,,,,
+491,Dasyprocta punctata,,,,
+492,Dasypus novemcinctus,,,,
+493,Dasypus pilosus,,,,
+494,Dasyurus albopunctatus,,,,
+495,Dasyurus maculatus,,,,
+496,Daubentonia madagascariensis,,,,
+497,Deania calcea,,,,
+498,Deinopis subrufa,,,,
+499,Delphinapterus leucas,,,,
+500,Dendragapus fuliginosus,,,,
+501,Dendrelaphis kopsteini,,,,
+502,Dendroaspis polylepis,,,,Aves
+503,Dendrobates azureus,,,,Insectos
+504,Dendrobates lehmanni,,,,Arácnidos
+505,Dendrocitta bayleyii,,,,Mamíferos
+506,Dendrocitta occipitalis,,,,Peces
+507,Dendrolagus matschiei,,,,Invertebrados marinos
+508,Dendropsophus ozzyi,,,,Reptiles
+509,Dendrortyx macroura,,,,Anfibios
+510,Dendrotriton xolocalcae,,,,Otros invertebrados
+511,Dermochelys coriacea,,,,
+512,Deroplatys desiccata,,,,
+513,Deroptyus accipitrinus,,,,
+514,Desmana moschata,,,,
+515,Desmodus rotundus,,,,
+516,Diactor bilineatus,,,,
+517,Diadasia chilensis,,,,
+518,Diadophis punctatus,,,,
+519,Diaethria neglecta,,,,
+520,Diapontia anfibia,,,,
+521,Dicaeum quadricolor,,,,
+522,Dicerorhinus sumatrensis,,,,
+523,Dicrodon guttulatum,,,,
+524,Didelphis marsupialis,,,,Aves
+525,Didelphis virginiana,,,,Insectos
+526,Dinia mena,,,,Arácnidos
+527,Dinomys branickii,,,,Mamíferos
+528,Diodon holocanthus,,,,Peces
+529,Diogenes edwardsii,,,,Invertebrados marinos
+530,Diomedea epomophora,,,,Reptiles
+531,Diomedea sanfordi,,,,Anfibios
+532,Diphaglossa gayi,,,,Otros invertebrados
+533,Diplolaemus darwinii,,,,
+534,Dipodomys ordii,,,,
+535,Dipodomys spectabilis,,,,
+536,Discosura popelairii,,,,
+537,Distoechurus pennatus,,,,
+538,Dolichotis patagonum,,,,
+539,Doliornis sclateri,,,,
+540,Dolophones conifera,,,,
+541,Draco volans,,,,
+542,Draculoides bramstokeri,,,,
+543,Drepanicus gayi,,,,
+544,Drepanorhynchus reichenowi,,,,
+545,Dromiciops gliroides,,,,
+546,Dryas iulia,,,,Aves
+547,Dryocampa rubicunda,,,,Insectos
+548,Dryocopus martius,,,,Arácnidos
+549,Dugong dugon,,,,Mamíferos
+550,Dynastes hercules,,,,Peces
+551,Dyscophus antongilii,,,,Invertebrados marinos
+552,Echinotriton andersoni,,,,Reptiles
+553,Eclectus roratus,,,,Anfibios
+554,Ectophylla alba,,,,Otros invertebrados
+555,Edmonsia sypnoides,,,,
+556,Egretta caerulea,,,,
+557,Egretta thula,,,,
+558,Eira barbara,,,,
+559,Elaenia albiceps,,,,
+560,Elanus leucurus,,,,
+561,Elaphodus cephalophus,,,,
+562,Elcysma ziroensis,,,,
+563,Electrophorus electricus,,,,
+564,Elephantulus revoili,,,,
+565,Elephas maximus,,,,
+566,Elephas maximus borneensis,,,,
+567,Eligmodontia dunaris,,,,
+568,Elusor macrurus,,,,Aves
+569,Emblemaria oculocirris,,,,Insectos
+570,Emblemaria pandionis,,,,Arácnidos
+571,Emerita analoga,,,,Mamíferos
+572,Empusa fasciata,,,,Peces
+573,Empusa pennata,,,,Invertebrados marinos
+574,Enallagma cyathigerum,,,,Reptiles
+575,Enchelycore anatina,,,,Anfibios
+576,Enchelycore pardalis,,,,Otros invertebrados
+577,Enhydra lutris,,,,
+578,Enicognathus ferrugineus,,,,
+579,Enicognathus leptorhynchus,,,,
+580,Enteroctopus dofleini,,,,
+581,Enteroctopus megalocyathus,,,,
+582,Eos bornea,,,,
+583,Ephemeroptera,,,,
+584,Ephippiorhynchus asiaticus,,,,
+585,Ephippiorhynchus senegalensis,,,,
+586,Epipedobates tricolor,,,,
+587,Equus africanus,,,,
+588,Equus ferus przewalskii,,,,
+589,Equus grevyi,,,,
+590,Equus hemionus,,,,Aves
+591,Equus kiang,,,,Insectos
+592,Equus quagga,,,,Arácnidos
+593,Equus zebra,,,,Mamíferos
+594,Eresus cinnaberinus,,,,Peces
+595,Erethizon dorsatum,,,,Invertebrados marinos
+596,Eretmochelys imbricata,,,,Reptiles
+597,Eriopis chilensis,,,,Anfibios
+598,Eriovixia gryffindori,,,,Otros invertebrados
+599,Eristalis gatesi,,,,
+600,Errina antarctica,,,,
+601,Eryphanis polyxena,,,,
+602,Erythrura gouldiae,,,,
+603,Eschrichtius robustus,,,,
+604,Etmopterus lailae,,,,
+605,Eubalaena australis,,,,
+606,Eubucco bourcierii,,,,
+607,Euchoreutes naso,,,,
+608,Eucrossorhinus dasypogon,,,,
+609,Eudocima phalonia,,,,
+610,Eudocimus ruber,,,,
+611,Eudyptes chrysolophus,,,,
+612,Euglossa hansoni,,,,Aves
+613,Euglossini,,,,Insectos
+614,Eulemur cinereiceps,,,,Arácnidos
+615,Eulemur flavifrons,,,,Mamíferos
+616,Eulidia yarrellii,,,,Peces
+617,Eulophophyllum kirki,,,,Invertebrados marinos
+618,Eumomota superciliosa,,,,Reptiles
+619,Eunectes murinus,,,,Anfibios
+620,Euneomys chinchilloides,,,,Otros invertebrados
+621,Eunice aphroditois,,,,
+622,Euophrys omnisuperstes,,,,
+623,Eupherusa poliocerca,,,,
+624,Euplectes jacksoni,,,,
+625,Euplectes orix,,,,
+626,Euprymna berryi,,,,
+627,Euprymna scolopes,,,,
+628,Euprymna tasmanica,,,,
+629,Eupsophus calcaratus,,,,
+630,Eupsophus emiliopugini,,,,
+631,Eupsophus septentrionalis,,,,
+632,Euptilotis neoxenus,,,,
+633,Eurycea sosorum,,,,
+634,Eurylomata picturata,,,,Aves
+635,Eurynecroscia nigrofasciata,,,,Insectos
+636,Eurypharynx pelecanoides,,,,Arácnidos
+637,Euspinolia militaris,,,,Mamíferos
+638,Eutoxeres aquila,,,,Peces
+639,Exilisciurus whiteheadi,,,,Invertebrados marinos
+640,Extatosoma tiaratum,,,,Reptiles
+641,Falco amurensis,,,,Anfibios
+642,Falco cherrug,,,,Otros invertebrados
+643,Falco deiroleucus,,,,
+644,Falco femoralis,,,,
+645,Falco mexicanus,,,,
+646,Falco peregrinus,,,,
+647,Falco rufigularis,,,,
+648,Falco rusticolus,,,,
+649,Falco sparverius,,,,
+650,Falco tinnunculus,,,,
+651,Falco vespertinus,,,,
+652,Felis bieti,,,,
+653,Felis catus,,,,
+654,Felis chaus,,,,
+655,Felis lybica,,,,
+656,Felis margarita,,,,Aves
+657,Felis nigripes,,,,Insectos
+658,Felis silvestris,,,,Arácnidos
+659,Forpus coelestis,,,,Mamíferos
+660,Fossa fossana,,,,Peces
+661,Fratercula arctica,,,,Invertebrados marinos
+662,Fregata magnificens,,,,Reptiles
+663,Fromia milleporella,,,,Anfibios
+664,Fulica armillata,,,,Otros invertebrados
+665,Fulica gigantea,,,,
+666,Fulica rufifrons,,,,
+667,Furcifer pardalis,,,,
+668,Furcifer rhinoceratus,,,,
+669,Furcifer timoni,,,,
+670,Gaeotis flavolineata,,,,
+671,Galagoides rondoensis,,,,
+672,Galeopterus variegatus,,,,
+673,Galictis cuja,,,,
+674,Galidia elegans,,,,
+675,Gallicolumba crinigera,,,,
+676,Gallicolumba luzonica,,,,
+677,Gallinago paraguaiae,,,,
+678,Gallus gallus domesticus,,,,Aves
+679,Gambelia copeii,,,,Insectos
+680,Gasteracantha arcuata,,,,Arácnidos
+681,Gasteracantha cancriformis,,,,Mamíferos
+682,Gasteracantha westringi,,,,Peces
+683,Gavialis gangeticus,,,,Invertebrados marinos
+684,Gecarcoidea natalis,,,,Reptiles
+685,Gekko gecko,,,,Anfibios
+686,Genetta genetta,,,,Otros invertebrados
+687,Geococcyx californianus,,,,
+688,Geococcyx velox,,,,
+689,Geosesarma dennerle,,,,
+690,Geosesarma hagen,,,,
+691,Geositta peruviana,,,,
+692,Geospiza conirostris,,,,
+693,Geospiza difficilis,,,,
+694,Geospiza fuliginosa,,,,
+695,Geospiza magnirostris,,,,
+696,Geoxus valdivianus,,,,
+697,Geranoaetus melanoleucus,,,,
+698,Geranoaetus polyosoma,,,,
+699,Geronticus eremita,,,,
+700,Ginglymostoma cirratum,,,,Aves
+701,Giraffa camelopardalis,,,,Insectos
+702,Glaucidium nanum,,,,Arácnidos
+703,Glaucidium sanchezi,,,,Mamíferos
+704,Glaucomys oregonensis,,,,Peces
+705,Glaucomys sabrinus,,,,Invertebrados marinos
+706,Glaucomys volans,,,,Reptiles
+707,Glaucopsyche alexis,,,,Anfibios
+708,Glaucus atlanticus,,,,Otros invertebrados
+709,Glirulus japonicus,,,,
+710,Globicephala macrorhynchus,,,,
+711,Globicephala melas,,,,
+712,Gnolus cordiformis,,,,
+713,Goetheana shakespearei,,,,
+714,Gollumjapyx smeagol,,,,
+715,Gonatista grisea,,,,
+716,Gonatodes caudiscutatus,,,,
+717,Gongylus gongylodes,,,,
+718,Gonipterus platensis,,,,
+719,Gonyosoma boulengeri,,,,
+720,Gorgonocephalus chilensis,,,,
+721,Gorgonocephalus eucnemis,,,,
+722,Gorilla beringei beringei,,,,Aves
+723,Gorilla beringei graueri,,,,Insectos
+724,Gorilla gorilla,,,,Arácnidos
+725,Gorilla gorilla diehli,,,,Mamíferos
+726,Gorilla gorilla gorilla,,,,Peces
+727,Goura victoria,,,,Invertebrados marinos
+728,Gracililima nyassae,,,,Reptiles
+729,Gracula religiosa,,,,Anfibios
+730,Graellsia isabellae,,,,Otros invertebrados
+731,Grammostola pulchra,,,,
+732,Grammostola rosea,,,,
+733,Grampus griseus,,,,
+734,Grandala coelicolor,,,,
+735,Greta oto,,,,
+736,Grus americana,,,,
+737,Gulo gulo,,,,
+738,Gymnobelideus leadbeateri,,,,
+739,Gymnomuraena zebra,,,,
+740,Gymnorhina tibicen,,,,
+741,Gymnothorax javanicus,,,,
+742,Gynaephora groenlandica,,,,
+743,Gypaetus barbatus,,,,
+744,Gyps bengalensis,,,,Aves
+745,Gyps himalayensis,,,,Insectos
+746,Gyriosomus,,,,Arácnidos
+747,Habronattus agilis,,,,Mamíferos
+748,Habronattus altanus,,,,Peces
+749,Habronattus americanus,,,,Invertebrados marinos
+750,Habronattus amicus,,,,Reptiles
+751,Habronattus coecatus,,,,Anfibios
+752,Habronattus viridipes,,,,Otros invertebrados
+753,Hadrurus arizonensis,,,,
+754,Haematopus ater,,,,
+755,Haematopus palliatus,,,,
+756,Halcyon smyrnensis,,,,
+757,Haliaeetus leucocephalus,,,,
+758,Halitrephes maasi,,,,
+759,Hamadryas amphinome,,,,
+760,Hapalochlaena lunulata,,,,
+761,Haploa clymene,,,,
+762,Harmonia axyridis,,,,
+763,Harpia harpyja,,,,
+764,Hedydipna collaris,,,,
+765,Hedydipna metallica,,,,
+766,Hedydipna platura,,,,Aves
+767,Helarctos malayanus,,,,Insectos
+768,Heliangelus regalis,,,,Arácnidos
+769,Heliothryx barroti,,,,Mamíferos
+770,Heloderma horridum,,,,Peces
+771,Heloderma suspectum,,,,Invertebrados marinos
+772,Hemaris tityus,,,,Reptiles
+773,Hemeroplanes triptolemus,,,,Anfibios
+774,Hemicentetes semispinosus,,,,Otros invertebrados
+775,Hemiphractus fasciatus,,,,
+776,Hemiscyllium ocellatum,,,,
+777,Hermissenda crassicornis,,,,
+778,Hermissenda opalescens,,,,
+779,Herpailurus yagouaroundi,,,,
+780,Herpestes ichneumon,,,,
+781,Herpetotheres cachinnans,,,,
+782,Heteragrion,,,,
+783,Heterocentrotus mamillatus,,,,
+784,Heterocephalus glaber,,,,
+785,Heteronemia chilensis,,,,
+786,Heteropoda boiei,,,,
+787,Heteropoda davidbowie,,,,
+788,Hexabranchus sanguineus,,,,Aves
+789,Hexanchus griseus,,,,Insectos
+790,Hieraaetus wahlbergi,,,,Arácnidos
+791,Himantopus leucocephalus,,,,Mamíferos
+792,Himantopus melanurus,,,,Peces
+793,Hippocamelus antisensis,,,,Invertebrados marinos
+794,Hippocamelus bisulcus,,,,Reptiles
+795,Hippocampus bargibanti,,,,Anfibios
+796,Hippocampus colemani,,,,Otros invertebrados
+797,Hippocampus zosterae,,,,
+798,Hippopotamus amphibius,,,,
+799,Hirmoneura brevirostrata,,,,
+800,Histioea meldolae,,,,
+801,Histiotus laephotis,,,,
+802,Histiotus macrotus,,,,
+803,Histiotus magellanicus,,,,
+804,Histiotus montanus,,,,
+805,Hoolock hoolock,,,,
+806,Hoolock leuconedys,,,,
+807,Hoolock tianxing,,,,
+808,Hoplia coerulea,,,,
+809,Horama panthalon,,,,
+810,Hyaena brunnea,,,,Aves
+811,Hyaena hyaena,,,,Insectos
+812,Hyalinobatrachium dianae,,,,Arácnidos
+813,Hyalophora cecropia,,,,Mamíferos
+814,Hydrochoerus hydrochaeris,,,,Peces
+815,Hydrophis elegans,,,,Invertebrados marinos
+816,Hydrophis platurus,,,,Reptiles
+817,Hydropotes inermis,,,,Anfibios
+818,Hydrosaurus,,,,Otros invertebrados
+819,Hydrurga leptonyx,,,,
+820,Hyemoschus aquaticus,,,,
+821,Hyla meridionalis,,,,
+822,Hylamorpha elegans,,,,
+823,Hylephila fasciolata,,,,
+824,Hylephila phyleus,,,,
+825,Hyles annei,,,,
+826,Hyllus diardi,,,,
+827,Hyllus giganteus,,,,
+828,Hyllus semicupreus,,,,
+829,Hylobates agilis,,,,
+830,Hylobates albibarbis,,,,
+831,Hylobates klossii,,,,
+832,Hylobates lar,,,,Aves
+833,Hylobates moloch,,,,Insectos
+834,Hylobates muelleri,,,,Arácnidos
+835,Hylobates pileatus,,,,Mamíferos
+836,Hylomantis lemur,,,,Peces
+837,Hylorina sylvatica,,,,Invertebrados marinos
+838,Hyloscirtus lindae,,,,Reptiles
+839,Hymenocera picta,,,,Anfibios
+840,Hymenops perspicillatus,,,,Otros invertebrados
+841,Hymenopus coronatus,,,,
+842,Hynobius formosanus,,,,
+843,Hypentelium nigricans,,,,
+844,Hyperolius leucotaenius,,,,
+845,Hypselodoris,,,,
+846,Hypsignathus monstrosus,,,,
+848,Ibycus rachelae,,,,
+847,Ichthyophaga ichthyaetus,,,,
+849,Icterus gularis,,,,
+850,Icterus icterus,,,,
+851,Idalus herois,,,,
+852,Idiopsar dorsalis,,,,
+853,Idolomantis diabolica,,,,
+854,Ifrita kowaldi,,,,Aves
+855,Iguana iguana,,,,Insectos
+856,Imantodes cenchoa,,,,Arácnidos
+857,Indri indri,,,,Mamíferos
+858,Inia geoffrensis,,,,Peces
+859,Insuetophrynus acarpicus,,,,Invertebrados marinos
+860,Iodopleura isabellae,,,,Reptiles
+861,Irenomys tarsalis,,,,Anfibios
+862,Irura bidenticulata,,,,Otros invertebrados
+863,Isepeolus luctuosus,,,,
+864,Isoxya tabulata,,,,
+865,Istiophorus albicans,,,,
+866,Isurus oxyrinchus,,,,
+867,Ixothraupis guttata,,,,
+868,Jabiru mycteria,,,,
+869,Jacamaralcyon tridactyla,,,,
+870,Jacamerops aureus,,,,
+871,Janthina janthina,,,,
+872,Jorunna parva,,,,
+873,Jotus karllagerfeldi,,,,
+874,Jotus remus,,,,
+875,Junco hyemalis,,,,
+876,Junionia almana,,,,Aves
+877,Kallima inachus,,,,Insectos
+878,Kataphraktosaurus ungerhamiltoni,,,,Arácnidos
+879,Kerivoula picta,,,,Mamíferos
+880,Kiwa hirsuta,,,,Peces
+881,Kryptopterus minor,,,,Invertebrados marinos
+882,Kuschelina decorata,,,,Reptiles
+883,Lachnolaimus maximus,,,,Anfibios
+884,Lactoria cornuta,,,,Otros invertebrados
+885,Lagenorhynchus australis,,,,
+886,Lagenorhynchus cruciger,,,,
+887,Lagidium peruanum,,,,
+888,Lagidium viscacia,,,,
+889,Lagothrix cana,,,,
+890,Lagothrix lagotricha,,,,
+891,Lama glama,,,,
+892,Lama guanicoe,,,,
+893,Lamna nasus,,,,
+894,Lampornis calolaemus,,,,
+895,Lampornis castaneoventris,,,,
+896,Lamprolaima rhami,,,,
+897,Lamproptera meges,,,,
+898,Lamprotornis nitens,,,,Aves
+899,Lamprotornis purpureus,,,,Insectos
+900,Langaha madagascariensis,,,,Arácnidos
+901,Laniocera hypopyrra,,,,Mamíferos
+902,Lanius cristatus,,,,Peces
+903,Lanthanotus borneensis,,,,Invertebrados marinos
+904,Larosterna inca,,,,Reptiles
+905,Larus dominicanus,,,,Anfibios
+906,Larvivora komadori,,,,Otros invertebrados
+907,Lasia corvina,,,,
+908,Lasia nigritarsis,,,,
+909,Lasia rufovestita,,,,
+910,Lasionota picta,,,,
+911,Lasiorhinus krefftii,,,,
+912,Lasiurus cinereus,,,,
+913,Lasiurus varius,,,,
+914,Laticauda colubrina,,,,
+915,Lebeda,,,,
+916,Leiothrix lutea,,,,
+917,Leistes loyca,,,,
+918,Lemur catta,,,,
+919,Leontopithecus caissara,,,,
+920,Leontopithecus chrysomelas,,,,Aves
+921,Leontopithecus chrysopygus,,,,Insectos
+922,Leontopithecus rosalia,,,,Arácnidos
+923,Leopardus colocolo,,,,Mamíferos
+924,Leopardus colocolo colocolo,,,,Peces
+925,Leopardus garleppi,,,,Invertebrados marinos
+926,Leopardus geoffroyi,,,,Reptiles
+927,Leopardus guigna,,,,Anfibios
+928,Leopardus guttulus,,,,Otros invertebrados
+929,Leopardus jacobita,,,,
+930,Leopardus pajeros,,,,
+931,Leopardus pardalis,,,,
+932,Leopardus tigrinus,,,,
+933,Leopardus wiedii,,,,
+934,Lepidobatrachus laevis,,,,
+935,Lepidoblepharis miyatai,,,,
+936,Lepidodactylus yami,,,,
+937,Lepidophyma smithii,,,,
+938,Lepilemur ankaranensis,,,,
+939,Lepilemur dorsalis,,,,
+940,Lepilemur edwardsi,,,,
+941,Lepilemur septentrionalis,,,,
+942,Leptailurus serval,,,,Aves
+943,Leptasthenura aegithaloides,,,,Insectos
+944,Leptasthenura xenothorax,,,,Arácnidos
+945,Leptocoma aspasia,,,,Mamíferos
+946,Leptocoma minima,,,,Peces
+947,Leptopoecile sophiae,,,,Invertebrados marinos
+948,Leptoptilos crumenifer,,,,Reptiles
+949,Leptosittaca branickii,,,,Anfibios
+950,Lepus arcticus,,,,Otros invertebrados
+951,Lepus californicus,,,,
+952,Lepus flavigularis,,,,
+953,Lessonia rufa,,,,
+954,Leucauge,,,,
+955,Leucophaeus modestus,,,,
+956,Leucophaeus scoresbii,,,,
+957,Leucopsar rothschildi,,,,
+958,Levitonius mirus,,,,
+959,Lexias pardalis,,,,
+960,Libytheana carinenta,,,,
+961,Liguus virgineus,,,,
+962,Lilioceris lilioceris,,,,
+963,Limaformosa capensis,,,,
+964,Limenitis reducta,,,,Aves
+965,Limosa fedoa,,,,Insectos
+966,Limosa haemastica,,,,Arácnidos
+967,Limulus polyphemus,,,,Mamíferos
+968,Liolaemus chiliensis,,,,Peces
+969,Liolaemus chillanensis,,,,Invertebrados marinos
+970,Liolaemus confusus,,,,Reptiles
+972,Liolaemus curicensis,,,,Otros invertebrados
+971,Liolaemus cyanogaster,,,,Anfibios
+973,Liolaemus fabiani,,,,
+974,Liolaemus lemniscatus,,,,
+975,Liolaemus leopardinus,,,,
+976,Liolaemus nigriceps,,,,
+977,Liolaemus nitidus,,,,
+978,Liolaemus pictus,,,,
+979,Liolaemus tenuis,,,,
+980,Liomera rugata,,,,
+981,Liomys irroratus,,,,
+982,Liposarcus pardalis,,,,
+983,Lipotes vexillifer,,,,
+984,Lithobates sylvaticus,,,,
+985,Litocranius walleri,,,,
+986,Litoria caerulea,,,,Aves
+987,Loddigesia mirabilis,,,,Insectos
+988,Lontra felina,,,,Arácnidos
+989,Lontra provocax,,,,Mamíferos
+990,Lophocebus aterrimus,,,,Peces
+991,Lophochroa leadbeateri,,,,Invertebrados marinos
+992,Lophophorus impejanus,,,,Reptiles
+993,Lophorina niedda,,,,Anfibios
+994,Lophorina victoriae,,,,Otros invertebrados
+995,Lophornis adorabilis,,,,
+996,Lophornis brachylophus,,,,
+997,Lophornis chalybeus,,,,
+998,Lophornis delattrei,,,,
+999,Lophornis helenae,,,,
 1000,Lophornis magnificus,,,,
 1001,Lophornis ornatus,,,,
 1002,Lophornis stictolophus,,,,
